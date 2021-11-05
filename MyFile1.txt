@@ -1,2 +1,4 @@
 remoto
 locale
+
+Branch1 locale
